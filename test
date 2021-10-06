@@ -15,17 +15,8 @@
     z-index: 3;
     width: 900px;
     height: 12.5px;
-    transition: 250ms ease-in;
 }
-.tree-2wKJdG { /*Guild subcontainer*/
-    position: absolute;
-    top: 100%;
-    left: 0;
-    transform-origin: top left;
-    height: 900px;
-    width: 12.5px;
-    transition: 250ms ease-in; 
-}
+
 .wrapper-3NnKdC:hover { /*Guild wrapper hover*/
     height: 69px;
 }
@@ -35,9 +26,6 @@
 .scroller-1Bvpku { /*Centers server icons on the guild bar*/
     margin-top: 20px;
     margin-bottom: 20px;
-}
-.wrapper-25eVIn { /*Server Icon*/
-    transform: rotate(90deg);
 }
 
 /*DevilBro's Server Folder compatibility*/
